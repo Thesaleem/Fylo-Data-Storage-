@@ -25,14 +25,12 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 
 ### Screenshot
-
-![](./images/Screenshot Fylo Data Storage.png)
+![Screenshot Fylo Data Storage](https://user-images.githubusercontent.com/89635859/152405814-f6326b58-5983-497c-8dde-96a399415c66.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Saleem's Live URL Solution](thesaleem-fylodatastorage.netlify.app)
 
 ## My process
 
@@ -67,5 +65,5 @@ I'm going to explore using more pseudo elements and also get better understandin
 ## Author
 
 - Frontend Mentor - [@TheSaleem](https://www.frontendmentor.io/profile/thesaleem)
-- Twitter - [@yTheSaleem_](https://www.twitter.com/thesaleem_)
+- Twitter - [@TheSaleem_](https://www.twitter.com/thesaleem_)
 
